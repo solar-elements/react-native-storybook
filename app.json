@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "Solar Elements"
+    // "icon": "./assets/logo.png"
+  },
+  "loading": {
+    "backgroundColor": "#fff",
+    "hideExponentText": true
+    // "icon": "./assets/logo.svg"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "@solarelements/alt-button",
   "description": "Alternate Button for Solar Elements UI kit",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "private": false,
   "author": "solarelement",
   "main": "./index.js",

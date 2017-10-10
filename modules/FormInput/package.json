@@ -1,7 +1,7 @@
 {
-  "name": "@solarelements/form-input",
-  "version": "0.0.7",
-  "description": "Form Input for UI kit",
+  "name": "@solarelement/form-input",
+  "version": "0.0.8",
+  "description": "Form Input for  Solar Elements UI kit",
   "private": false,
   "author": "Trevor Casey",
   "main": "./index.js",
@@ -15,5 +15,12 @@
     "react": "16.0.0-alpha.12",
     "react-native": "^0.48.4",
     "react-native-svg": "^6.0.0-rc1"
+  },
+  "bugs": {
+    "url": "https://github.com/solar-elements/react-native-storybook/issues"
+  },
+  "homepage": "https://github.com/solar-elements/react-native-storybook#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

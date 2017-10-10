@@ -1,6 +1,6 @@
 {
-  "name": "@solarelement/form-input",
-  "version": "0.0.11",
+  "name": "@solarelements/form-input",
+  "version": "0.0.12",
   "description": "Form Input for  Solar Elements UI kit",
   "private": false,
   "author": "Trevor Casey",

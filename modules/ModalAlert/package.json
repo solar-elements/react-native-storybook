@@ -1,6 +1,6 @@
 {
-  "name": "solarelements_modal-alert",
-  "version": "0.0.4",
+  "name": "@solarelements/modal-alert",
+  "version": "0.0.5",
   "description": "Modal Alert for UI kit",
   "private": false,
   "author": "Trevor Casey",

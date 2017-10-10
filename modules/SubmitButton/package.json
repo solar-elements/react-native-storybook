@@ -1,6 +1,6 @@
 {
-  "name": "@solarelements/submit-button",
-  "version": "0.0.3",
+  "name": "solarelements_submit-button",
+  "version": "0.0.4",
   "description": "Submit Button for UI kit",
   "private": false,
   "author": "Trevor Casey",

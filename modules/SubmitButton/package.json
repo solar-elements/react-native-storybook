@@ -1,6 +1,19 @@
 {
   "name": "@solarelements/submit-button",
-  "version": "0.0.2",
-  "private": true,
-  "main": "./index.js"
+  "version": "0.0.3",
+  "description": "Submit Button for UI kit",
+  "private": false,
+  "author": "Trevor Casey",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solar-elements/react-native-storybook.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.48.4",
+    "react-native-svg": "^6.0.0-rc1"
+  }
 }

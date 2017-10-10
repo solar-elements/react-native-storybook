@@ -1,7 +1,7 @@
 {
   "name": "@solarelement/alt-button",
   "description": "Alternate Button for Solar Elements UI kit",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "private": false,
   "author": "Trevor Casey",
   "main": "./index.js",
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/solar-elements/react-native-storybook#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-npm": "npm publish --access public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

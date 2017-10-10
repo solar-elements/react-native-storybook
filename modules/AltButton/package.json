@@ -1,9 +1,9 @@
 {
   "name": "@solarelements/alt-button",
   "description": "Alternate Button for Solar Elements UI kit",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "private": false,
-  "author": "Trevor Casey",
+  "author": "solarelement",
   "main": "./index.js",
   "repository": {
     "type": "git",
